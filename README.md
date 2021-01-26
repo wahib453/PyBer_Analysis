@@ -1,8 +1,8 @@
 # Overview of the Analysis 
 ## Purpose
-1- > Create a summary DataFrame of the ride-sharing data by city type. 
-2- > Use Pandas and Matplotlib to create a multiple-line graph that shows the total weekly fares for each city type.
-3- > Give a report that summarizes how the data differs by city type and how those differences can be used by decision-makers at PyBer.
+1. > Create a summary DataFrame of the ride-sharing data by city type. 
+2. > Use Pandas and Matplotlib to create a multiple-line graph that shows the total weekly fares for each city type.
+3. > Give a report that summarizes how the data differs by city type and how those differences can be used by decision-makers at PyBer.
 
 
 # Results
